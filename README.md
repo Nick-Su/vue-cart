@@ -1,9 +1,15 @@
 # vue-cart
 
 ## Project setup
-1. Clone this repo to your local machine and extract the archive
-2. Open terminal in project folder
-3. Run
+1. Clone this repo. Open terminal and run
+```
+git clone https://github.com/Nick-Su/vue-cart.git
+```
+2. Open project folder
+```
+cd vue-cart-master
+```
+3. Install all dependencies by running the following command
 ```
 yarn install
 ```
